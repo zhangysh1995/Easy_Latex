@@ -15,6 +15,6 @@ Type a Latex command, select it, click `Render` then you will see that your love
 ## Request for Testing
 First thank you for taking a look at this repo. I started this project because I couldn't get a LaTex add-on to work for my documents on Google Docs. I'm still developing this tool for it to be published in the Google Docs Marketplace.
 
-If you are interested in an early testing of this add-on, please shoot an email to mailto:zhangysh1995@gamil.com.
+If you are interested in an early testing of this add-on, please shoot an email to zhangysh1995@gmail.com.
 
 If you have an idea on how to improve it, please feel free to discuss it in the [issue](https://github.com/zhangysh1995/Easy_Latex/issues).
