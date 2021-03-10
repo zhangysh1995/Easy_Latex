@@ -6,10 +6,10 @@ Type a Latex command, select it, click `Render` then you will see that your love
 
 ## How??
 
-## Installation
+### Installation
 ![image](https://user-images.githubusercontent.com/8340592/110634083-85aa7700-81e4-11eb-9c9b-db6c251435b2.png)
 
-## Usage
+### Usage
 ![image](https://user-images.githubusercontent.com/8340592/110634147-96f38380-81e4-11eb-942a-d52b6ef6088b.png)
 
 ## Request for Testing
