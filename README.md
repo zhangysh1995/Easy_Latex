@@ -1,5 +1,5 @@
 # Easy_Latex
-An Latex command rendering add-on for Google Docs (under development).
+An add-on for testing out your Latex equations. (under development).
 
 ## What??
 Type a Latex command, select it, click `Render` then you will see that your lovely equation is displayed!!
